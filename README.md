@@ -1,5 +1,4 @@
 # Basic-Java
-Java Basic
 Membuat aplikasi Java (script) yang menghitung nilai berdasarkan input dari argumen.
 Alur perhitungannya adalah:
 - Membuat class java dengan nama StudyCase
